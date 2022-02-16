@@ -1,0 +1,31 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+  font-family: outfit, sans-serif;
+  width: 1440px;
+}
+p {
+  font-size: 0.9375rem;
+  font-weight: 400;
+  text-align: center;
+  color: hsl(220, 15%, 55%);
+}
+h2 {
+  font-weight: 600;
+  text-align: center;
+}
+.top-container {
+  background-color: white;
+  width: 340px;
+  border-radius: 10px;
+  margin: 100px auto 100px auto;
+}
+.info {
+  width: 265px;
+  margin: 0 auto;
+}
+.qr {
+  margin: 20px 20px;
+  width: 300px;
+  height: 300px;
+  border-radius: 10px;
+}
